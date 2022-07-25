@@ -1,5 +1,6 @@
 # stream-rtsp-video-to-webrtc
 stream-rtsp-video-to-webrtc は、RTSP方式で受け取った画像データを、WebRTCにストリーミング配信するためのマイクロサービスです。
+本マイクロサービスは、[RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC)を参照しています。  
 
 
 ![RTSPtoWebRTC image](doc/demo3.png)
